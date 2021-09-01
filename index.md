@@ -11,9 +11,8 @@
  <tr>
 <td><a href="(https://dongzhsarry.github.io/Sarry/suzhou"><b><strong>Urban Redesign</a></strong>  <br/>Connect old Suzhou House and extend circulation to solve problems of density.</b></td>
 <td><a href="(https://dongzhsarry.github.io/Sarry/fairytree"><b><strong>Fairy Tale Tree</a></strong>  <br/>A combination of my studio work in different semesters. They are all built on a endless tree.</b></td>
-<td><a href="https://dongzhsarry.github.io/Sarry/spline"><b><strong>Small Works</a></strong>  <br/>Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</b></td>
-</tr>
-	</table>
+<td><a href="https://dongzhsarry.github.io/Sarry/spline"><b><strong>Small Works</a></strong>  <br/>Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</b>
+  </table>
 <br>
 <br>
 
