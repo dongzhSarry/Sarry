@@ -5,10 +5,10 @@
          <img alt="1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/suzhou.jpg?raw=true" width="620"></a>
       </td>
     <td><a href="https://dongzhsarry.github.io/Sarry/fairytree">
-         <img alt="2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/fairytree.jpg?raw=true" width="300"></a>
+         <img alt="2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/fairytree.jpg?raw=true" width="400"></a>
       </td>
     <td><a href="https://dongzhsarry.github.io/Sarry/spline">
-         <img alt="3" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/spline.jpg?raw=true" width="400"></a>
+         <img alt="3" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/spline.jpg?raw=true" width="300"></a>
       </td>
   <tr> <td><strong><a href="(https://dongzhsarry.github.io/Sarry/suzhou">Urban Redesign</a></strong>  <br/>Connect old Suzhou House and extend circulation to solve problems of density.
     </td>
