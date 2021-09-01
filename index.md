@@ -1,4 +1,4 @@
-<strong>PROJECTS<strong> <br>
+## <strong>PROJECTS<strong> <br>
   <br>
 <table>
 <td><a href="https://dongzhsarry.github.io/Sarry/suzhou">
@@ -19,7 +19,7 @@ Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenl
 <br>
 <br>
 
-## <strong>[introduction](https://dongzhsarry.github.io/Sarry/me)<strong>
+## <strong>[Introduction](https://dongzhsarry.github.io/Sarry/me)<strong>
 
 
 ## <strong>[Internship](https://dongzhsarry.github.io/Sarry/internship)<strong>
