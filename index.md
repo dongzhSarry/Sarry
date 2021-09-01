@@ -16,15 +16,14 @@
 Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</b></td> 
 </tr>
 	</table>
-<br>
-<br>
+
 
 ## <strong>[Introduction](https://dongzhsarry.github.io/Sarry/me)<strong>
 
-<br>
+	
 ## <strong>[Internship](https://dongzhsarry.github.io/Sarry/internship)<strong>
   
-<br>
+
 ## <strong>[Portfolio](https://dongzhsarry.github.io/Sarry/portfolio)<strong>
 	
 <br>  
