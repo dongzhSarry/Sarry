@@ -10,8 +10,7 @@
 	<td><a href="(https://dongzhsarry.github.io/Sarry/suzhou"><b><strong>Urban Redesign</strong></b></a><br/>Connect old Suzhou House and extend circulation to solve problems of density.</td>
 	<td><a href="(https://dongzhsarry.github.io/Sarry/fairytree"><b><strong>Fairy Tale Tree</strong></b></a> <br/>A combination of my studio work in different semesters. They are all built on a endless tree. </td>
 	<td><a href="https://dongzhsarry.github.io/Sarry/spline"><b><strong>Small Works</strong></b></a> <br/>Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</td>
-    </tr>
-      </table>
+     </table>
 <br>
 <br>
 
