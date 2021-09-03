@@ -1,12 +1,12 @@
 ## <strong>PROJECTS<strong> <br>
   <br>
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
+<table>
+  <tr>
 	<td><a href="https://dongzhsarry.github.io/Sarry/suzhou"><img alt="1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/suzhou.jpg?raw=true" width="620"></a></td>
 	<td><a href="https://dongzhsarry.github.io/Sarry/fairytree"><img alt="2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/fairytree.jpg?raw=true" width="400"></a></td>
 	<td><a href="https://dongzhsarry.github.io/Sarry/spline"><img alt="3" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/spline.jpg?raw=true" width="300"></a></td>
  </tr>
-<tr style="border: none;">
+<tr>
 <td><a href="(https://dongzhsarry.github.io/Sarry/suzhou"><b><strong>Urban Redesign</strong></a></b>   <br/>Connect old Suzhou House and extend circulation to solve problems of density.</td>
 	<td><a href="(https://dongzhsarry.github.io/Sarry/fairytree"><b><strong>Fairy Tale Tree</strong></a></b>    <br/>A combination of my studio work in different semesters. They are all built on a endless tree. </td>
 	<td><a href="https://dongzhsarry.github.io/Sarry/spline"><b><strong>Small Works</strong></a></b>    <br/>Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</td>
