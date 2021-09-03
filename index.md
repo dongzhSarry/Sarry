@@ -11,10 +11,9 @@
 	<td><a href="(https://dongzhsarry.github.io/Sarry/fairytree"><strong>Fairy Tale Tree</strong></a> <br/>A combination of my studio work in different semesters. They are all built on a endless tree. </td>
 	<td><a href="https://dongzhsarry.github.io/Sarry/spline"><strong>Small Works</strong></a> <br/>Photo Collage, Meshroom,Spline, Photosphere and other project. Artificial intenlligence  change art.</td>
 	 </tr>
-      </table>
 <br>
 
-
+<br>
 
 ## <strong>[Introduction](https://dongzhsarry.github.io/Sarry/me)<strong>
 
