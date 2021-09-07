@@ -1,5 +1,3 @@
-## <strong>PROJECTS<strong> <br>
-  <br>
 <table>
   <tr>
 	<td><a href="https://dongzhsarry.github.io/Sarry/suzhou"><img alt="1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/suzhou.jpg?raw=true" width="620"></a></td>
