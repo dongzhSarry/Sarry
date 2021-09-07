@@ -18,14 +18,19 @@ This next image is a model of one side of the canal on the south-west corner of 
 <img alt="perspective" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/perspective.png?raw=true" width="800">
 
 #### Waste of cultural heritage
-As shown in the following composite image, the site has important gardens (shown in green) and culturally important buildings (shown in red) but, as can be seen in the photographs that follow, the environment between them is often unattractive and doers not provide a good setting for the important cultural artifacts.
+As shown in the following composite image, the site has important gardens (shown in green) and culturally important buildings (shown in red) but, as can be seen in the photographs that follow, the environment between them is often unattractive and doers not provide a good setting for the important cultural artifacts. <br>
+<img alt="combined" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/combined.jpg?raw=true" width="600">
 
 #### Neglected channels
 Some channels are neglected and unused and the walls are not being maintained. Some channels have been hidden by new development, and this leads to further neglect. Some channels have been filled-in to create more roads. Not only this, rainwater from shops and restaurants built next to the channels flows directly into the channels and pollutes them.
 
-However, in Suzhou and elsewhere, the development of cities and the growing importance of road transportation led to the gradual abandonment of canals, and the number of waterways gradually decreased in the Qing Dynasty and later. In modern times, due to industrialization, urban development and increased building density, the water system has gradually been made obsolete and in some places filled in.
+However, in Suzhou and elsewhere, the development of cities and the growing importance of road transportation led to the gradual abandonment of canals, and the number of waterways gradually decreased in the Qing Dynasty and later. In modern times, due to industrialization, urban development and increased building density, the water system has gradually been made obsolete and in some places filled in. <br>
+<img alt="channel" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/channel.jpg?raw=true" width="600">
 
-The next pictures shows parts of the ancient river course. There are many parts of the ancient city where there are still traditional revetments, but the original ancient revetments are rare.
+The next pictures shows parts of the ancient river course. There are many parts of the ancient city where there are still traditional revetments, but the original ancient revetments are rare. <br>
+<img alt="1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/11.png?raw=true" width="400"> <br>
+<img alt="2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/22.png?raw=true" width="400"> <br>
+<img alt="3" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/33.png?raw=true" width="400">
 
 
 ## Techniques
