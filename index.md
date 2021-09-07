@@ -9,7 +9,7 @@
 	<td><a href="(https://dongzhsarry.github.io/Sarry/fairytree"><b><strong>Fairy Tale Tree</strong></a> </b> <br/>A combination of my studio work in different semesters. They are all built on a endless tree. </td>
     <td><a href="https://dongzhsarry.github.io/Sarry/spline"><b><strong>Small Works</strong></a> </b> <br/>Photo Collage, Meshroom, Spline, Photosphere and other project. Artificial intelligence change art.</td>
 </tr>
-</table>
+   </table>
 <br>
 <br>
 
@@ -19,10 +19,5 @@
 <strong>[Internship](https://dongzhsarry.github.io/Sarry/internship)<strong> <br>  
   
 <strong>[Portfolio](https://dongzhsarry.github.io/Sarry/portfolio)<strong>
-	
-<br>  
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aF9cKedBpz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-
+<br>  	
   
