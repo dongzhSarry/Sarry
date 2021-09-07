@@ -69,7 +69,7 @@ In Tokyo Tanaka area, through the active use of old buildings to realize the ren
 
 ## The Proposal
 
-#### The Design
+### The Design
 
 ##### Site model
 
