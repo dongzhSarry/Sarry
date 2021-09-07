@@ -19,7 +19,7 @@ This next image is a model of one side of the canal on the south-west corner of 
 
 #### Waste of cultural heritage
 As shown in the following composite image, the site has important gardens (shown in green) and culturally important buildings (shown in red) but, as can be seen in the photographs that follow, the environment between them is often unattractive and doers not provide a good setting for the important cultural artifacts. <br>
-<img alt="combined" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/combined.jpg?raw=true" width="600">
+<img alt="combined" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/combined.jpg?raw=true" width="500">
 
 #### Neglected channels
 Some channels are neglected and unused and the walls are not being maintained. Some channels have been hidden by new development, and this leads to further neglect. Some channels have been filled-in to create more roads. Not only this, rainwater from shops and restaurants built next to the channels flows directly into the channels and pollutes them.
