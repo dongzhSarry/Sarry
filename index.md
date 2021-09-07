@@ -13,11 +13,11 @@
 <br>
 <br>
 
-## <strong>[Introduction](https://dongzhsarry.github.io/Sarry/me)<strong> <br>  
+### [Introduction](https://dongzhsarry.github.io/Sarry/me)  
 
 	
-## <strong>[Internship](https://dongzhsarry.github.io/Sarry/internship)<strong> <br>  
+### [Internship](https://dongzhsarry.github.io/Sarry/internship)
   
-## <strong>[Portfolio](https://dongzhsarry.github.io/Sarry/portfolio)<strong>
+### [Portfolio](https://dongzhsarry.github.io/Sarry/portfolio)
 <br>  	
   
