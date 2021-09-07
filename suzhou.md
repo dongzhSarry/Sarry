@@ -14,6 +14,7 @@ Since the Tang Dynasty, China’s Grand Canal has been a major transportation ro
 <img alt="history2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/history2.jpg?raw=true" width="400">
 
 The image on the left below shows that the site is located in the south-west corner of ancient Suzhou. On its western side is the main river [city moat] that has been there for at least one thousand years. At the top left of the middle image is where this river links to the Grand Canal. This river was once an important transportation route for the entire city.
+<br>
 <img alt="oldmap" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/oldmap.png?raw=true" width="250"><img alt="mainoldmap" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/mainoldmap.png?raw=true" width="250"><img alt="rivermap" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/rivermap.png?raw=true" width="250">
 
 This next image is a model of one side of the canal on the south-west corner of Suzhou. This part of the canal has two major problems shared by canals in other parts of the city. <br>
