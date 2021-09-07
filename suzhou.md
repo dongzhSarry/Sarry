@@ -62,7 +62,10 @@ In Tokyo Tanaka area, through the active use of old buildings to realize the ren
 <img alt="tokyo" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/t1.jpg?raw=true" width="700">
 
 #### Rejuvenation Projects IN Wenzhou
-##### Shangen Village, Art Village, Moon Bar
+##### Shangen Village, Art Village, Moon Bar <br>
+<img alt="shangen1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/shangen1.jpeg?raw=true" width="600"> <br>
+<img alt="shangen2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/shangen2.jpeg?raw=true" width="600"> <br>
+<img alt="shangen3" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/shangen3.jpeg?raw=true" width="600">
 
 ## The Proposal
 
