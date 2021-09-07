@@ -8,7 +8,7 @@
 #### History of Canal
 Since the Tang Dynasty, China’s Grand Canal has been a major transportation route linking the coastal cities of Hangzhou, Ningbo and Suzhou, with the major inland cities of Luoyang, Kaifeng and Beijing. Suzhou is an important city close to the sea end of the Grand Canal which is a world cultural heritage site. <br>
 <img alt="historycanal" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/historycanal.jpg?raw=true" width="800"> <br>
-<img alt="history" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/history.jpg?raw=true" width="380">  <img alt="history2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/history2.jpg?raw=true" width="393">
+<img alt="history" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/history.jpg?raw=true" width="380">  <img alt="history2" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/history2.jpg?raw=true" width="394">
 
 The image on the left below shows that the site is located in the south-west corner of ancient Suzhou. On its western side is the main river [city moat] that has been there for at least one thousand years. At the top left of the middle image is where this river links to the Grand Canal. This river was once an important transportation route for the entire city.
 <br>
