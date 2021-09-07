@@ -36,14 +36,20 @@ The next pictures shows parts of the ancient river course. There are many parts 
 ## Techniques
 #### Connections in cities
 ##### Subway line
-
+<img alt="shanghaisub" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/shanghaisub.png?raw=true" width="800">
 #### Programs
 ##### Venice
-In the process of protection and renewal, Venice has encountered the problems of over-exploitation of tourism and continuous loss of indigenous people. In order to attract residents and better protect historical and cultural resources, the city has introduced cultural and art education functions. Moreover, Venice has also inserted a variety of urban functional areas in the cultural and educational area, such as business district, residential area, office area and so on. This not only promotes the preservation of Venetian culture, but also promotes people’s communication and facilitates people’s life.
+In the process of protection and renewal, Venice has encountered the problems of over-exploitation of tourism and continuous loss of indigenous people. In order to attract residents and better protect historical and cultural resources, the city has introduced cultural and art education functions. Moreover, Venice has also inserted a variety of urban functional areas in the cultural and educational area, such as business district, residential area, office area and so on. This not only promotes the preservation of Venetian culture, but also promotes people’s communication and facilitates people’s life.<br>
+<img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven.png?raw=true" width="800"> <br>
+<img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven1.png?raw=true" width="390">  <img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven2.png?raw=true" width="390">
 
 #### Channels
 ##### Giudecca, Venice
-Giudecca, Venice has well preserved waterways. The river still runs in all directions, and boats and canals are still the main means of transportation. The buildings on both sides of the river remain in the local style and the people live different lives from the people on Venice’s main island. Giudecca Island is therefore a good reference for the reconstruction of Suzhou canals.
+Giudecca, Venice has well preserved waterways. The river still runs in all directions, and boats and canals are still the main means of transportation. The buildings on both sides of the river remain in the local style and the people live different lives from the people on Venice’s main island. Giudecca Island is therefore a good reference for the reconstruction of Suzhou canals. <br>
+<img alt="giudecca1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/giu1.jpeg?raw=true" width="550"> <br>
+<img alt="giudecca1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/giu2.jpeg?raw=true" width="550"> <br>
+<img alt="giudecca1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/giu3.jpeg?raw=true" width="550"> <br>
+<img alt="giudecca1" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/giu4.jpeg?raw=true" width="550">
 
 #### Markets
 ##### Port of Baltimore, United States
