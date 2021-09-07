@@ -41,7 +41,7 @@ The next pictures shows parts of the ancient river course. There are many parts 
 ##### Venice
 In the process of protection and renewal, Venice has encountered the problems of over-exploitation of tourism and continuous loss of indigenous people. In order to attract residents and better protect historical and cultural resources, the city has introduced cultural and art education functions. Moreover, Venice has also inserted a variety of urban functional areas in the cultural and educational area, such as business district, residential area, office area and so on. This not only promotes the preservation of Venetian culture, but also promotes people’s communication and facilitates people’s life.<br>
 <img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven.png?raw=true" width="800"> <br>
-<img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven1.png?raw=true" width="390">  <img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven2.png?raw=true" width="400">
+<img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven1.png?raw=true" width="390">  <img alt="venice" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/ven2.png?raw=true" width="405">
 
 #### Channels
 ##### Giudecca, Venice
