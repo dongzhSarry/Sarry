@@ -15,4 +15,4 @@
 <br>
 <strong>AR</strong>
 <br>
-<img alt="rep" src="https://github.com/steenblikrs/2021-Spring-Studio/blob/gh-pages/students/Sarry/Files/Sarry-AR.gif?raw=true" width="500">
+<img alt="rep" src="https://github.com/dongzhSarry/Sarry/blob/gh-pages/files/Sarry-AR.gif?raw=true" width="500">
